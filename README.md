@@ -23,7 +23,7 @@ npm run start
 [Trillo](https://admiring-neumann-dbabd9.netlify.app)
 
 
-### use With
+### use with
 
 * CSS and Sass
 * Flexbox
