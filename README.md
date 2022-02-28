@@ -11,7 +11,7 @@ Advanced CSS and Sass Udemy course
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 npm-run-all compile:sass  prefix:css compress:css
