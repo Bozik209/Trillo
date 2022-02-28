@@ -7,6 +7,7 @@
 # Trillo
 
 Advanced CSS and Sass Udemy course 
+[Trillo](https://admiring-neumann-dbabd9.netlify.app)
 
 
 ## Installation
@@ -18,9 +19,7 @@ npm-run-all compile:sass  prefix:css compress:css
 npm run start
 ```
 
-## Link
 
-[Trillo](https://admiring-neumann-dbabd9.netlify.app)
 
 
 ### use with
